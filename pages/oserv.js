@@ -1,0 +1,1 @@
+const ourservises = { template: '<div>A casdsadasdasdasdsaustom component!</div>'}

@@ -1,0 +1,1 @@
+const trainingandcourses = { template: '<div>/trainingandcourses</div>'}
